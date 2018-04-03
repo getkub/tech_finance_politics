@@ -1,0 +1,7 @@
+# Query Google search API
+
+qValue="luxemborg"
+cxValue="xxxx:xxxxx"
+keyValue="your_key_here"
+
+curl -k "https://www.googleapis.com/customsearch/v1?key=${keyValue}&cx=${cxValue}&q=${qValue}"
