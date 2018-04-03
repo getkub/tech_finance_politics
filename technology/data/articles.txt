@@ -1,2 +1,3 @@
 # 25 Open Datasets for Deep Learning Every Data Scientist Must Work With
-http://flip.it/OJgEFw
+https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+(MNIST, MS-COCO, ImageNet, Open Images, VisualQA VQA, The Street View House Numbers (SVHN) )
