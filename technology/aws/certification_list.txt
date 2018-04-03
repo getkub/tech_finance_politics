@@ -1,0 +1,7 @@
+    Introduction and History of AWS
+    AWS Foundational Services: EC2, VPC, S3, EBS
+    AWS Security, Identity, and Access Management: IAM
+    AWS Databases: RDS, DynamoDB
+    AWS Management Tools: Auto Scaling, CloudWatch, Elastic Load Balancing, Trusted Advisor
+    
+    
